@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishanthiruthayaraj
 - 👀 I’m interested in Data science, Deep learning, Machine learning, Artificial intelligence and learning new technologies.
-- 💞️ Ideas are welcome.
+- 🧠 Ideas are welcome.
 - 📫 You can reach me here https://www.linkedin.com/in/nishanth-iruthayaraj-712b74149/
 
 <!---
